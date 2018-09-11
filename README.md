@@ -1,8 +1,6 @@
 # rom-comm-mixtape-repo
 Mixtape Files Repo
 
-<iframe src="https://drive.google.com/file/d/0B38pM85yTqppa2F2a3BMa3U1dEk/preview" width="640" height="480"></iframe>
-
 ---
 
 © Licensing
